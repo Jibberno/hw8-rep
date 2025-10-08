@@ -39,6 +39,14 @@ img {
   width: auto;
 }
 
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
 /* no touchy */
 ul, ol {
   padding-left: 40px;
