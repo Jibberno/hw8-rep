@@ -39,11 +39,11 @@ img {
   width: auto;
 }
 
-ul {
+ul li {
   list-style-type: square;
 }
 
-ol {
+ol li {
   list-style-type: upper-roman;
 }
 
